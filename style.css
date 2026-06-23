@@ -28,8 +28,9 @@ color:white;
 overflow-x:hidden;
 
 }
-
-
+section{
+    scroll-margin-top: 50px;
+}
 
 /*======================
 
